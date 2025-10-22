@@ -1,6 +1,6 @@
 # Stage 1 Task: String Analyzer Service
 
-A RESTful API built with pure Node.js and TypeScript that analyzes strings, computes their properties (length, palindrome status, character frequency, SHA-256 hash), and stores them in memory with advanced filtering capabilities including natural language query processing with In-memory storage using JavaScript `Map`. AI was used to build the NLP feature (I was behind time and needed it done asap)
+A RESTful API built with pure Node.js and TypeScript that analyzes strings, computes their properties (length, palindrome status, character frequency, SHA-256 hash), and stores them in memory (`Map`) with advanced filtering capabilities including natural language query processing. AI was used to build the NLP feature (I was behind time and needed it done asap)
 
 ## Project Files
 
